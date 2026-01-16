@@ -50,3 +50,11 @@ El proyecto se encuentra publicado en GitHub Pages:
 ---
 ## Autora
 Proyecto realizado por **Claudia Riquelme Medina** como parte del proceso formativo del módulo 2.
+
+---
+## Justificación
+En este proyecto se usaron HTML, Bootstrap y JavaScript para crear una billetera digital básica.  
+Se implementó el inicio de sesión, las opciones del menú y el registro de movimientos usando `localStorage`.
+
+La idea fue que la app sea simple y fácil de usar, mostrando el saldo y los movimientos de forma clara.  
+Como mejora futura, se podría ordenar mejor los archivos separando el CSS y el JavaScript.
