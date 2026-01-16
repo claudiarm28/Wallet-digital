@@ -45,7 +45,7 @@ Desarrollar una wallet digital con una interfaz simple y funcional, utilizando t
 ---
 ## Publicación
 El proyecto se encuentra publicado en GitHub Pages:
-👉 **(https://github.com/claudiarm28/Wallet-digital?search=1)**
+👉 **(https://claudiarm28.github.io/Wallet-digital/)**
 
 ---
 ## Autora
