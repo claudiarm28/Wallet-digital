@@ -46,6 +46,7 @@ Desarrollar una wallet digital con una interfaz simple y funcional, utilizando t
 ## Publicación
 El proyecto se encuentra publicado en GitHub Pages:
 👉 **(https://claudiarm28.github.io/Wallet-digital/)**
+file:///C:/Users/arace/Desktop/alke%20wallet%20final/login.html
 
 ---
 ## Autora
